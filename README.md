@@ -13,8 +13,8 @@ src="https://raw.githubusercontent.com/gist/ruansilvaolv/c0cfa9af6fbd0dcf5e5c54e
 ## ⚙️ &nbsp;GitHub Analytics
 <div>
  <p align="left">
-<img width="480em" src="https://github-readme-stats.vercel.app/api?username=ruansilvaolv&show_icons=true&theme=vision-friendly-dark" alt="ruansilva's stats"/>
-<img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruansilvaolv&layout=compact&theme=vision-friendly-dark" alt="ruansilva's most languages"/>
+<img width="470em" src="https://github-readme-stats.vercel.app/api?username=ruansilvaolv&show_icons=true&theme=vision-friendly-dark" alt="ruansilva's stats"/>
+<img width="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruansilvaolv&layout=compact&theme=vision-friendly-dark" alt="ruansilva's most languages"/>
 </p>
 </div>
   
