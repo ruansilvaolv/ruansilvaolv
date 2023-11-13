@@ -39,13 +39,13 @@ src="https://raw.githubusercontent.com/gist/ruansilvaolv/c0cfa9af6fbd0dcf5e5c54e
 <div>
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/ruansilvaolv" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ruansilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-ruanoliveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/herr_oliveira" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ruansilva-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-ruanoliveira-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="mailto:ruansilvaolv@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ruansilva-05122A?style=flat&logo=gmail" alt="gmail"/>
+ <img align="center" src="https://img.shields.io/badge/-ruanoliveira-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </p>
 </div>
