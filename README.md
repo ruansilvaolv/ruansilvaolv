@@ -7,7 +7,7 @@ src="https://raw.githubusercontent.com/gist/ruansilvaolv/c0cfa9af6fbd0dcf5e5c54e
 
 - 🔥 Programming Beginner focused on Fullstack and Software Development
 - 🔭 In High School
-- 🌱 Learning HTML5, CSS3 & Java
+- 🌱 Learning HTML5, CSS3 & JavaScript
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
